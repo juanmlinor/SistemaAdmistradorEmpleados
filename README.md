@@ -1,0 +1,2 @@
+# SistemaAdmistradorEmpleados
+.NetCore8
